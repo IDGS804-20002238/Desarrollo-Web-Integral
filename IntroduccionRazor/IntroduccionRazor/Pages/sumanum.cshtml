@@ -1,0 +1,29 @@
+﻿@page
+@model IntroduccionRazor.Pages.sumanumModel
+@{
+    double numero1 = 0;
+    double numero2 = 0;
+    double suma = 0;
+
+    if (Request.Method == "POST")
+    {
+        numero1 = double.Parse(Request.Form["numero1"]);
+        numero2 = double.Parse(Request.Form["numero2"]);
+        suma = numero1 + numero2;
+    }
+}
+<h1>Sumar dos números</h1>
+<form method="post">
+    <label for="numero1" class="form-label">Número 1:</label>
+    <input type="number" step="0.1" id="numero1" name="numero1" required />
+    <br />
+    <label for="numero2" class="form-label">Número 2:</label>
+    <input type="number" step="0.1" id="numero2" name="numero2" required />
+    <br />
+    <button type="submit" class="btn btn-success">Calcular Suma</button>
+</form>
+
+@if (Model.SumaCalculada)
+{
+    <p>El resultado es: @Model.Suma</p>
+}

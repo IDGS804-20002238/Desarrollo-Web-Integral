@@ -1,0 +1,46 @@
+﻿@page
+@model IntroduccionRazor.Pages.ciclosModel
+@{
+}
+<h1>Ejemplo de ciclo while</h1>
+@{
+    var cont = 1;
+    while (cont <= 10)
+    {
+        <p>@cont</p>
+        cont++;
+    }
+}
+<br />
+
+<h1>Ejemplo de ciclo do-while</h1>
+@{
+    var cont2 = 1;
+    do
+    {
+        <p>@cont2</p>
+        cont2++;
+    }
+    while (cont2 <= 10);
+}
+<br />
+
+<h1>Ejemplo de ciclo for</h1>
+@{
+    for (var i = 1; i <= 10; i++)
+    {
+        <p>@i</p>
+    }
+}
+<br />
+
+<h1>Ejemplo de ciclo foreach</h1>
+@{
+    var numeros = new List<int> { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+    foreach (var numero in numeros)
+    {
+        <p>@numero</p>
+    }
+}
+<br />
+

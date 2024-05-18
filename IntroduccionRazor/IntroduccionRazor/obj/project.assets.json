@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\IntroduccionRazor.csproj",
+      "projectUniqueName": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\IntroduccionRazor.csproj",
       "projectName": "IntroduccionRazor",
-      "projectPath": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\IntroduccionRazor.csproj",
+      "projectPath": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\IntroduccionRazor.csproj",
       "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\obj\\",
+      "outputPath": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\angel\\AppData\\Roaming\\NuGet\\NuGet.Config",

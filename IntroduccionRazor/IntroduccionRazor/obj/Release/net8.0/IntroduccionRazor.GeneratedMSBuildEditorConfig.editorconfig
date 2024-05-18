@@ -18,10 +18,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\angel\OneDrive\Desktop\DesarrolloWebIntegral\IntroduccionRazor\IntroduccionRazor
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/ciclos.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY2ljbG9zLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/condicionales.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29uZGljaW9uYWxlcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -48,26 +44,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/sintaxisbasica.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc2ludGF4aXNiYXNpY2EuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/sumanum.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcc3VtYW51bS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/Tarea1/programa1.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWExXHByb2dyYW1hMS5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/Tarea1/programa2.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWExXHByb2dyYW1hMi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/Tarea1/programa3.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWExXHByb2dyYW1hMy5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/Tarea1/programa4.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFyZWExXHByb2dyYW1hNC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/angel/OneDrive/Desktop/DesarrolloWebIntegral/IntroduccionRazor/IntroduccionRazor/Pages/_ViewImports.cshtml]

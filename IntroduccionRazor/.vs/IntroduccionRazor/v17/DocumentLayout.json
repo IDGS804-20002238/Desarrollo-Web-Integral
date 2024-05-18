@@ -1,50 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\",
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\condicionales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\condicionales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionrazor\\introduccionrazor\\pages\\tarea1\\programa4.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\tarea1\\programa4.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\sintaxisbasica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\sintaxisbasica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\holamundorazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\holamundorazor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\web\\introduccionrazor\\introduccionrazor\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionrazor\\introduccionrazor\\pages\\tarea1\\programa4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AB06AF8-332C-47D1-8383-E818E17E40C9}|IntroduccionRazor\\IntroduccionRazor.csproj|solutionrelative:introduccionrazor\\pages\\tarea1\\programa4.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,138 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "condicionales.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\condicionales.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\condicionales.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\condicionales.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\condicionales.cshtml",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-18T00:03:04.966Z",
+              "Title": "programa4.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml.cs",
+              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml.cs",
+              "RelativeToolTip": "IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAADwvy4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T01:35:33.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "sintaxisbasica.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\sintaxisbasica.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\sintaxisbasica.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\sintaxisbasica.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\sintaxisbasica.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Title": "programa4.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml",
+              "RelativeToolTip": "IntroduccionRazor\\Pages\\Tarea1\\programa4.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:54:18.036Z",
+              "WhenOpened": "2024-05-18T01:35:25.48Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "holamundorazor.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\holamundorazor.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\holamundorazor.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\holamundorazor.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\holamundorazor.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:48:11.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:40:26.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Error.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Error.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:39:54.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:39:52.889Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:39:51.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Index.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:36:52.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\Index.cshtml.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T23:36:43.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Program.cs",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Program.cs",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Program.cs",
-              "RelativeToolTip": "IntroduccionRazor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T23:32:43.926Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "IntroduccionRazor\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\WEB\\IntroduccionRazor\\IntroduccionRazor\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "IntroduccionRazor\\Pages\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-17T23:39:48.645Z"
             }
           ]
         }

@@ -1,0 +1,26 @@
+﻿@page
+@model IntroduccionRazor.Pages.Tarea1.programa4Model
+@{
+    ViewData["Title"] = "Generar y Calcular Propiedades de un Arreglo de Números Aleatorios";
+}
+
+<h1>Generar y Calcular Propiedades de un Arreglo de Números Aleatorios</h1>
+
+<form method="post">
+    <button type="submit">Generar y Calcular</button>
+</form>
+
+@if (Model.ResultadosCalculados)
+{
+    <h2>Arreglo Aleatorio</h2>
+    <p>@string.Join(" ", Model.Numeros)</p>
+
+    <h2>Resultados</h2>
+    <p>Suma: @Model.Suma</p>
+    <p>Promedio: @Model.Promedio</p>
+    <p>Moda: @string.Join(", ", Model.Moda)</p>
+    <p>Mediana: @Model.Mediana</p>
+
+    <h2>Arreglo Ordenado</h2>
+    <p>@string.Join(" ", Model.Numeros.OrderBy(n => n))</p>
+}
