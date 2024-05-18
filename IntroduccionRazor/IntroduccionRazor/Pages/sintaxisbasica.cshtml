@@ -1,0 +1,14 @@
+﻿@page
+@model IntroduccionRazor.Pages.sintaxisbasicaModel
+@{
+}
+@{
+    var bienvenida = "Bienvenido a nuestro sitio ";
+    var diaSemana = DateTime.Now.DayOfWeek;
+    var mensajeBien = bienvenida + "aqui en leon es: " +
+        diaSemana + " Y hace mucho calor";
+
+}
+
+<p>@mensajeBien</p>
+
