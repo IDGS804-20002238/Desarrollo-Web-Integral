@@ -1,0 +1,78 @@
+﻿@{
+}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Currículum</title>
+    <style>
+        .parent {
+            display: grid;
+        }
+
+        .div1 {
+            grid-area: 1 / 1 / 2 / 2;
+        }
+
+        .div2 {
+            grid-area: 1 / 2 / 2 / 4;
+        }
+
+        .div3 {
+            grid-area: 2 / 1 / 3 / 4;
+        }
+
+        .sub {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="parent">
+            <div class="div1">
+                <img src="~/img/perfilcv.png" alt="Profile Picture" />
+            </div>
+            <div class="div2">
+                <div class="links">
+                    <div class="container-fluid">
+                        <h1>José Ángel Ramírez Tovar<h1>
+                    </div>
+                    <a asp-controller="cv" asp-action="preparacionAcademica">Preparación Académica</a>
+                    <a asp-controller="cv" asp-action="experienciaLaboral">Experiencia Laboral</a>
+                </div>
+            </div>
+            <div class="div3">
+                <div class="personal-info ">
+                    <h3 class="sub">Datos Personales</h3>
+                    <p>
+                        Celular: 477-641-9298
+                        <br>
+                        Correo: angeltovar308@gmail.com
+                        <br>
+                        Dirección: Granja eva #114, Col.
+                        <br>
+                        Granjeno plus (IVEEG)
+                    </p>
+
+                </div>
+                <div class="skills">
+                    <h3 class="sub">Habilidades y Aptitudes</h3>
+                    <p>
+                        <strong>Programación:</strong> Experiencia y pasión por la programación en múltiples lenguajes.<br>
+                        <strong>Adaptabilidad:</strong> Capacidad para aprender y adaptarse rápidamente a nuevos lenguajes y tecnologías.<br>
+                        <strong>Aprendizaje Continuo:</strong> Interés constante en adquirir nuevas habilidades y conocimientos.<br>
+                        <strong>Trabajo en Equipo:</strong> Eficiencia y colaboración en entornos de equipo.<br>
+                        <strong>Responsabilidad:</strong> Alta responsabilidad en la ejecución de tareas y cumplimiento de objetivos.<br>
+                        <strong>Aptitudes:</strong><br>
+                        <strong>Dedicación:</strong> Compromiso con la mejora continua y la superación personal.<br>
+                        <strong>Proactividad:</strong> Iniciativa para aprender y aplicar nuevas técnicas y conocimientos.<br>
+                        <strong>Comunicación:</strong> Habilidad para comunicarse efectivamente con compañeros de equipo y otros departamentos.<br>
+                        <strong>Pensamiento Crítico:</strong> Capacidad para analizar problemas y desarrollar soluciones efectivas.<br>
+                        <strong>Flexibilidad:</strong> Habilidad para manejar múltiples tareas y proyectos simultáneamente y adaptarse a cambios en el entorno laboral.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\mvcmovies\\mvcmovies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\mvcmovies\\mvcmovies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\mvcmovies\\mvcmovies\\mvcmovies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\mvcmovies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\mvcmovies\\mvcmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCADEE17-1DDD-4B45-B8B6-603730BEEF5C}|MvcMovies\\MvcMovies.csproj|solutionrelative:mvcmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MvcMovies\\Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:42:42.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\Models\\Movie.cs",
+              "RelativeToolTip": "MvcMovies\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T23:42:38.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MvcMovies.csproj",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\MvcMovies.csproj",
+              "RelativeDocumentMoniker": "MvcMovies\\MvcMovies.csproj",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\MvcMovies.csproj",
+              "RelativeToolTip": "MvcMovies\\MvcMovies.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-29T00:19:32.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\Program.cs",
+              "RelativeDocumentMoniker": "MvcMovies\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\MvcMovies\\MvcMovies\\Program.cs",
+              "RelativeToolTip": "MvcMovies\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:00:57.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

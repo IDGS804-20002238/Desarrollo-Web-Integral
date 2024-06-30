@@ -1,0 +1,83 @@
+﻿@{
+}
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Currículum</title>
+    <style>
+        .parent {
+            display: grid;
+        }
+
+        .div1 {
+            grid-area: 1 / 1 / 2 / 2;
+        }
+
+        .div2 {
+            grid-area: 1 / 2 / 2 / 4;
+        }
+
+        .div3 {
+            grid-area: 2 / 1 / 3 / 4;
+        }
+
+        .sub {
+            text-align: center;
+        }
+
+        .education-section {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            color: #333;
+        }
+        .education-section h2::before {
+            content: url('https://img.icons8.com/material-outlined/24/000000/graduation-cap.png');
+            margin-right: 10px;
+        }
+
+        .education ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="parent">
+            <div class="div1">
+                <img src="~/img/perfilcv.png" alt="Profile Picture" />
+            </div>
+            <div class="div2">
+                <div class="links">
+                    <div class="container-fluid">
+                        <h1>José Ángel Ramírez Tovar<h1>
+                    </div>
+                    <a asp-controller="cv" asp-action="Datos">Datos</a>
+                    <a asp-controller="cv" asp-action="experienciaLaboral">Experiencia Laboral</a>
+                </div>
+            </div>
+            <div class="div3">
+                <div class="education-section">
+                    <h2 class="sub">EDUCACIÓN</h2>
+                    <div class="education">
+                        <h3>Universidad Tecnologica de Leon</h3>
+                        <h4>Ingeniería en desarrollo de software. (En curso)</h4>
+                        <ul>
+                            <li>Ingeniería en Desarrollo de Software (En curso)</li>
+                            <li>Completados 8 de 11 cuatrimestres</li>
+                        </ul>
+                    </div>
+                    <div class="education">
+                        <h3>Universidad Tecnologica de Leon</h3>
+                        <h4>Técnico Superior Universitario. 2022</h4>
+                        <ul>
+                            <li>Graduado del área de desarrollo de software multiplataforma</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

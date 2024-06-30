@@ -1,0 +1,17 @@
+<div class="col">
+  <h3>Agregar</h3>
+  <hr />
+  <form (submit)="agregar()">
+    <input type="text" placeholder="NoEmpleado" name="NoEmpleado" [(ngModel)]="nuevo.noEmpleado" />
+    <input type="text" placeholder="Nombre" name="nombre" [(ngModel)]="nuevo.nombre" />
+    <input type="text" placeholder="Correo" name="correo" [(ngModel)]="nuevo.correo" />
+    <input type="number" placeholder="Telefono" name="telefono" [(ngModel)]="nuevo.telefono" />
+    <input type="date" placeholder="Fecha de Nacimiento" name="fechaNacimiento" [(ngModel)]="nuevo.fechaNacimiento" />
+    <label for="sexo">Sexo</label>
+    <input type="radio" name="sexo" value="masculino" [(ngModel)]="nuevo.sexo"> Masculino
+    <input type="radio" name="sexo" value="femenino" [(ngModel)]="nuevo.sexo"> Femenino
+    <button type="submit">
+      Agregar
+    </button>
+  </form>
+</div>

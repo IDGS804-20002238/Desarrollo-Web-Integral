@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\curriculum\\curriculum\\views\\cv\\preparacionacademica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|solutionrelative:curriculum\\views\\cv\\preparacionacademica.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\curriculum\\curriculum\\views\\cv\\experiencialaboral.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|solutionrelative:curriculum\\views\\cv\\experiencialaboral.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\curriculum\\curriculum\\views\\cv\\datos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|solutionrelative:curriculum\\views\\cv\\datos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\curriculum\\curriculum\\controllers\\cvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|solutionrelative:curriculum\\controllers\\cvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\curriculum\\curriculum\\curriculum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|solutionrelative:curriculum\\curriculum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\curriculum\\curriculum\\models\\cvmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E5EF1F-BE4C-4BF0-B8AD-F906AE6FAFF9}|Curriculum\\Curriculum.csproj|solutionrelative:curriculum\\models\\cvmodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Datos.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Views\\CV\\Datos.cshtml",
+              "RelativeDocumentMoniker": "Curriculum\\Views\\CV\\Datos.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Views\\CV\\Datos.cshtml",
+              "RelativeToolTip": "Curriculum\\Views\\CV\\Datos.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T23:31:47.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "experienciaLaboral.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Views\\CV\\experienciaLaboral.cshtml",
+              "RelativeDocumentMoniker": "Curriculum\\Views\\CV\\experienciaLaboral.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Views\\CV\\experienciaLaboral.cshtml",
+              "RelativeToolTip": "Curriculum\\Views\\CV\\experienciaLaboral.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T00:15:14.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "preparacionAcademica.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Views\\CV\\preparacionAcademica.cshtml",
+              "RelativeDocumentMoniker": "Curriculum\\Views\\CV\\preparacionAcademica.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Views\\CV\\preparacionAcademica.cshtml",
+              "RelativeToolTip": "Curriculum\\Views\\CV\\preparacionAcademica.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T00:14:54.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CVmodelo.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Models\\CVmodelo.cs",
+              "RelativeDocumentMoniker": "Curriculum\\Models\\CVmodelo.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Models\\CVmodelo.cs",
+              "RelativeToolTip": "Curriculum\\Models\\CVmodelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:32:50.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CVController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Controllers\\CVController.cs",
+              "RelativeDocumentMoniker": "Curriculum\\Controllers\\CVController.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Controllers\\CVController.cs",
+              "RelativeToolTip": "Curriculum\\Controllers\\CVController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T23:31:07.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Curriculum.csproj",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Curriculum.csproj",
+              "RelativeDocumentMoniker": "Curriculum\\Curriculum.csproj",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\Curriculum\\Curriculum\\Curriculum.csproj",
+              "RelativeToolTip": "Curriculum\\Curriculum.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T02:29:03.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

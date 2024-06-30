@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\controllers\\loginmobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\controllers\\loginmobilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\tareascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\tareascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\models\\loginmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\models\\loginmobile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\tareasminimalapi\\tareasminimalapi\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CDA40A-9317-49CC-AD3E-AD414465B9C1}|TareasMinimalAPI\\TareasMinimalAPI.csproj|solutionrelative:tareasminimalapi\\models\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\appsettings.json",
+              "RelativeToolTip": "TareasMinimalAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T01:35:47.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TareasContext.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\TareasContext.cs",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\TareasContext.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\TareasContext.cs",
+              "RelativeToolTip": "TareasMinimalAPI\\TareasContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:17:31.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginMobileController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\Controllers\\LoginMobileController.cs",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\Controllers\\LoginMobileController.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\Controllers\\LoginMobileController.cs",
+              "RelativeToolTip": "TareasMinimalAPI\\Controllers\\LoginMobileController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAwwC0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:16:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginMobile.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\models\\LoginMobile.cs",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\models\\LoginMobile.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\models\\LoginMobile.cs",
+              "RelativeToolTip": "TareasMinimalAPI\\models\\LoginMobile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:00:23.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\Program.cs",
+              "RelativeToolTip": "TareasMinimalAPI\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:18:25.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TareasMinimalAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T01:35:41.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\models\\Ciudad.cs",
+              "RelativeDocumentMoniker": "TareasMinimalAPI\\models\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\TareasMinimalAPI\\TareasMinimalAPI\\models\\Ciudad.cs",
+              "RelativeToolTip": "TareasMinimalAPI\\models\\Ciudad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T01:36:17.32Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

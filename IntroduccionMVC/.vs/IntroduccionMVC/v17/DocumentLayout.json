@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionmvc\\introduccionmvc\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|solutionrelative:introduccionmvc\\views\\cliente\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionmvc\\introduccionmvc\\views\\cliente\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|solutionrelative:introduccionmvc\\views\\cliente\\listadoclientes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionmvc\\introduccionmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|solutionrelative:introduccionmvc\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionmvc\\introduccionmvc\\views\\cliente\\pedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|solutionrelative:introduccionmvc\\views\\cliente\\pedido.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|c:\\users\\angel\\onedrive\\desktop\\desarrollowebintegral\\introduccionmvc\\introduccionmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8A4C760-0823-4363-87FD-7DF8B53067A9}|IntroduccionMVC\\IntroduccionMVC.csproj|solutionrelative:introduccionmvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListadoClientes.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Views\\Cliente\\ListadoClientes.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionMVC\\Views\\Cliente\\ListadoClientes.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Views\\Cliente\\ListadoClientes.cshtml",
+              "RelativeToolTip": "IntroduccionMVC\\Views\\Cliente\\ListadoClientes.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T01:22:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "IntroduccionMVC\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Models\\Cliente.cs",
+              "RelativeToolTip": "IntroduccionMVC\\Models\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T01:05:51.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pedido.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Views\\Cliente\\pedido.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionMVC\\Views\\Cliente\\pedido.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Views\\Cliente\\pedido.cshtml",
+              "RelativeToolTip": "IntroduccionMVC\\Views\\Cliente\\pedido.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:54:28.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeDocumentMoniker": "IntroduccionMVC\\Views\\Cliente\\Index.cshtml",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Views\\Cliente\\Index.cshtml",
+              "RelativeToolTip": "IntroduccionMVC\\Views\\Cliente\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T00:52:17.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "IntroduccionMVC\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\angel\\OneDrive\\Desktop\\DesarrolloWebIntegral\\IntroduccionMVC\\IntroduccionMVC\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "IntroduccionMVC\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T00:52:02.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

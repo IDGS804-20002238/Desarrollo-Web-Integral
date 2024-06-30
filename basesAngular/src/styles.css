@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+html, body {
+    background-color: white;
+     margin: 20px;
+     color: #3e4144;
+  }
+   
+  button {
+    background-color: blue;
+     border-radius: 5px;
+     border: 0px;
+     color: white;
+     cursor: pointer;
+    margin-right: 5px;
+     margin-left: 5px;
+     padding: 5px;
+  }
+   
+  .centrado {
+     display: flex;
+    flex-direction: row;
+     justify-content: center;
+  }
+
+  .row{
+   display: flex;
+  }
+  .col{
+   flex-grow: 1;
+   margin-right: 10px;
+  }
+  input{
+   display: block;
+   margin: 5px;
+  }
