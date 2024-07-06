@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\examen2doparcialapi\\examen2doparcialapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|solutionrelative:examen2doparcialapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\examen2doparcialapi\\examen2doparcialapi\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|solutionrelative:examen2doparcialapi\\models\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\examen2doparcialapi\\examen2doparcialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|solutionrelative:examen2doparcialapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\examen2doparcialapi\\examen2doparcialapi\\models\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|solutionrelative:examen2doparcialapi\\models\\tipoproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|c:\\users\\angel\\desktop\\desarrollowebintegral\\examen2doparcialapi\\examen2doparcialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{168A5DF2-19F1-4275-87BE-2A6AFB2B39DA}|Examen2doParcialApi\\Examen2doParcialApi.csproj|solutionrelative:examen2doparcialapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Program.cs",
+              "RelativeDocumentMoniker": "Examen2doParcialApi\\Program.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Program.cs",
+              "RelativeToolTip": "Examen2doParcialApi\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:07:35.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tipoProducto.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Models\\tipoProducto.cs",
+              "RelativeDocumentMoniker": "Examen2doParcialApi\\Models\\tipoProducto.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Models\\tipoProducto.cs",
+              "RelativeToolTip": "Examen2doParcialApi\\Models\\tipoProducto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:29:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "Examen2doParcialApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "Examen2doParcialApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwDAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:16:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\appsettings.json",
+              "RelativeDocumentMoniker": "Examen2doParcialApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\appsettings.json",
+              "RelativeToolTip": "Examen2doParcialApi\\appsettings.json",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAuwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T00:14:27.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "productos.cs",
+              "DocumentMoniker": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Models\\productos.cs",
+              "RelativeDocumentMoniker": "Examen2doParcialApi\\Models\\productos.cs",
+              "ToolTip": "C:\\Users\\angel\\Desktop\\DesarrolloWebIntegral\\Examen2doParcialApi\\Examen2doParcialApi\\Models\\productos.cs",
+              "RelativeToolTip": "Examen2doParcialApi\\Models\\productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:13:42.843Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

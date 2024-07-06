@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Examen2doParcialApi.props" />
+</Project>

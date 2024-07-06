@@ -1,0 +1,34 @@
+<div class="container mt-5">
+    <div class="row mb-3">
+      <div class="col-md-12">
+        <input type="text" class="form-control" placeholder="Buscar productos..." (input)="search($event)">
+      </div>
+    </div>
+  
+    <div class="row mb-3">
+      <div class="col-md-4">
+        <button class="btn btn-primary btn-block" (click)="filterByCategory(1)">Procesador AMD</button>
+      </div>
+      <div class="col-md-4">
+        <button class="btn btn-primary btn-block" (click)="filterByCategory(2)">Procesador INTEL</button>
+      </div>
+      <div class="col-md-4">
+        <button class="btn btn-secondary btn-block" (click)="getAllProducts()">Borrar Filtros</button>
+      </div>
+    </div>
+  
+    <div class="row">
+      <div class="col-md-6" *ngFor="let product of products">
+        <div class="card mb-4">
+          <img src="{{product.imagenProducto}}" class="card-img-top" alt="{{product.nombreProducto}}">
+          <div class="card-body">
+            <h5 class="card-title">{{product.nombreProducto}}</h5>
+            <p class="card-text">{{product.descripcionProducto}}</p>
+            <p class="card-text"><strong>Precio: ${{product.precioProducto}}</strong></p>
+            <button class="btn btn-primary btn-block">Agregar al carrito</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
